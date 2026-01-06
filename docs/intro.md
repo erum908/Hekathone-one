@@ -1,7 +1,7 @@
 ---
 id: intro
 title: Welcome to the ROS2 Nervous System
-slug: /
+
 sidebar_position: 1
 ---
 
@@ -19,9 +19,9 @@ The ROS2 Nervous System project is designed to bring structure and resilience to
 
 We recommend reading the documentation in the order it is presented in the sidebar.
 
-- **To get started**, head over to **[Chapter 1: Introduction to the ROS2 Nervous System](./chapter-1.md)** to learn about the core philosophy and goals of the project.
 
-- **To understand the architecture**, check out **[Chapter 2: Core Architecture](./chapter-2.md)**, which explains the fundamental components and how they work together.
+
+
 
 We hope you find this documentation helpful. Happy building!
 
