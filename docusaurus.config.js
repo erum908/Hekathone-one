@@ -7,7 +7,7 @@ const config = {
   tagline: 'Complete Documentation and Course Book',
   favicon: 'img/favicon.ico',
 
-  url: 'http://localhost:3000',
+  url: 'https://hekathone-one-32ow-g3rjqtun1-erum-abbas-projects.vercel.app',
   baseUrl: '/',
 
   onBrokenLinks: 'throw',
